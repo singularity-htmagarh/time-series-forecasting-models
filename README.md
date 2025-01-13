@@ -9,7 +9,7 @@ Following are the steps done by the application:
 - Select date and value columns
 - Automatically prepare and validate the data
  
-<img src='/pics/time_series_models_app.jpg' align="center" height="139px" />
+<img src='/pics/time_series_models_app.jpg' align="center"/>
 
 
 2. Model Features
