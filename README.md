@@ -9,16 +9,22 @@ Following are the steps done by the application:
 - Select date and value columns
 - Automatically prepare and validate the data
 
+logo: /pics/time_series_models_app.jpg
+
 2. Model Features
 - Implement Holt-Winter's Exponential Smoothing
 - Configurable test set size
 - Adjustable seasonal periods
 - Custom forecast horizon
 
+logo: /pics/time_series_models_app_02.jpg
+
 3. Visualizations:
 - Interactive time series plots using plotly
 - Decomposition analysis (trend, seasonal, residual components)
 - Training, test, and forecast data visualization
+
+logo: /pics/time_series_models_app_03.jpg
 
 4. Additional Features:
 
