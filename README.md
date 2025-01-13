@@ -18,14 +18,14 @@ Following are the steps done by the application:
 - Adjustable seasonal periods
 - Custom forecast horizon
 
-logo: /pics/time_series_models_app_02.jpg
+<img src='/pics/time_series_models_app_02.jpg' align="center"/>
 
 3. Visualizations:
 - Interactive time series plots using plotly
 - Decomposition analysis (trend, seasonal, residual components)
 - Training, test, and forecast data visualization
 
-logo: /pics/time_series_models_app_03.jpg
+<img src='/pics/time_series_models_app_03.jpg' align="center"/>
 
 4. Additional Features:
 
