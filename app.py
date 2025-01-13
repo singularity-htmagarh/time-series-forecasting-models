@@ -21,7 +21,7 @@ def prepare_data(df, date_column, value_column):
     try:
         # Convert date column to datetime
         df[date_column] = pd.to_datetime(df[date_column])
-        
+
         # Convert value column to numeric, forcing errors to NaN
         df[value_column] = pd.to_numeric(df[value_column], errors='coerce')
         
@@ -31,7 +31,7 @@ def prepare_data(df, date_column, value_column):
         # Check if we have any data left after cleaning
         if len(df) == 0:
             st.error("No valid data remaining after cleaning. Please check your input data.")
-            return None
+            return None 
             
         # Set Date as Index
         df = df.set_index(date_column)
