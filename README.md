@@ -1,5 +1,4 @@
-# time-series-app
- simple time series application
+# Time Series Forecasting Model (Step by Step Process)
 
 I have created a complete time series forecasting application using python and streamlit. Here is the robust application for handling data with the upload, visualization, model training and forecasting.
 
