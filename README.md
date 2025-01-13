@@ -8,8 +8,9 @@ Following are the steps done by the application:
 - Uploading CSV files
 - Select date and value columns
 - Automatically prepare and validate the data
+ 
+<img src='/pics/time_series_models_app.jpg' align="center" height="139px" />
 
-logo: /pics/time_series_models_app.jpg
 
 2. Model Features
 - Implement Holt-Winter's Exponential Smoothing
